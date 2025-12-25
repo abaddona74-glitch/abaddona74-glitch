@@ -1,4 +1,4 @@
-## 👤 Men haqimda
+## 👤 O'zim haqimda
 
 Salom! Man  — dasturlash va yangi texnologiyalarni o‘rganishni yoqtiradigan dasturchiman. 
 Asosan **web-ilovalar** yaratish, API’lar bilan ishlash va amaliy loyihalar orqali tajribamni oshirish bilan shug‘ullanaman.
