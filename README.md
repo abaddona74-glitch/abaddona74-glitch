@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👤 Men haqimda
 
-<!--
-**abaddona74-glitch/abaddona74-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salom! Man  — dasturlash va yangi texnologiyalarni o‘rganishni yoqtiradigan dasturchiman. 
+Asosan **web-ilovalar** yaratish, API’lar bilan ishlash va amaliy loyihalar orqali tajribamni oshirish bilan shug‘ullanaman.
 
-Here are some ideas to get you started:
+- Qiziqishlarim: web dasturlash, backend, frontend, avtomatlashtirish
+- Maqsad: real loyihalarda ishlash, kuchli portfolio yig‘ish va doimiy o‘sish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Texnologiyalar
+
+**Frontend:**
+- HTML, CSS, JavaScript
+- React / Tailwind 
+
+**Backend:**
+-  Node.js / Python 
+
+**Ma’lumotlar bazasi:**
+-  PostgreSQL / MongoDB
+
+**Tools:**
+- Git & GitHub
+- VS Code
+
+---
+
+## 🔗 Havolalar
+
+- GitHub: https://github.com/abaddona74-glitch
+- Telegram: `https://t.me/TheDarkLord_555` 
+
+---
+
+## 📬 Aloqa
+Agar hamkorlik yoki savollaringiz bo‘lsa — Telegram orqali yozing.
