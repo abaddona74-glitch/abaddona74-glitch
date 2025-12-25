@@ -12,10 +12,10 @@ Asosan **web-ilovalar** yaratish, API’lar bilan ishlash va amaliy loyihalar or
 
 **Frontend:**
 - HTML, CSS, JavaScript
-- React / Tailwind 
+- React / Tailwind / Styled components /
 
 **Backend:**
--  Node.js / Python 
+-  Next js / Node.js / Python 
 
 **Ma’lumotlar bazasi:**
 -  PostgreSQL / MongoDB
