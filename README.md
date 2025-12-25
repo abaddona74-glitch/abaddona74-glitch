@@ -29,7 +29,7 @@ Asosan **web-ilovalar** yaratish, API’lar bilan ishlash va amaliy loyihalar or
 ## 🔗 Havolalar
 
 - GitHub: [LINK](https://github.com/abaddona74-glitch)
-- Telegram: LINK `https://t.me/TheDarkLord_555` 
+- Telegram: [LINK](https://t.me/TheDarkLord_555)
 
 ---
 
