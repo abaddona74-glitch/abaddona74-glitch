@@ -44,7 +44,7 @@ Asosan **web-ilovalar**, **API** va **amaliy loyihalar** orqali tajribamni oshir
 ## 🔗 Havolalar
 
 - 🧠 GitHub: https://github.com/abaddona74-glitch  
-- 💬 Telegram: https://t.me/TheDarkLord_555  
+- 💬 Telegram: https://t.me/MaxmudbekMuzaffarov  
 
 ---
 
